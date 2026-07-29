@@ -81,7 +81,8 @@ Keep the Kaggle notebook tab open and active while demoing — the tunnel dies i
 
 # 📸 Demo
 
-*(Add screenshots or a short screen recording of the Streamlit app processing a sample complaint here.)*
+<img width="620" height="414" alt="image" src="https://github.com/user-attachments/assets/9c2f845f-c791-45fe-a8d7-eb1b2dff808a" />
+<img width="524" height="245" alt="image" src="https://github.com/user-attachments/assets/62c14903-3f87-40a4-ae0e-f6f8b72a49c9" />
 
 ---
 
